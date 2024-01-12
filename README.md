@@ -9,7 +9,12 @@
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ I enjoy making games<br>👀 I'm currently learning ..C# , Unity<br>🥰 I love cat <br>🪶 I'm a learner</p>
+- ✨ I enjoy making games
+- 👀 I'm currently learning C# , Unity
+- 🥰 I love cat
+- 🪶 I'm a learner
+- 📫 How to reach me: datthanhdoan.charlie@gmail.com
 
 ###
+
+
